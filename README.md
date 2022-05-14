@@ -1,6 +1,6 @@
 ## Kriya Powered By TypeScript
 
-### Context
+### Contex
 
 The team of Kriya App have developed a Task Board Render, which can display the data in the desired format using JavaScript. Organization has planned to extend the functionality of Kriya App by adding new features. This requires more developers to be added to the team to scale the project. ​
 
